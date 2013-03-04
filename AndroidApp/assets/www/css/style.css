@@ -1,0 +1,19 @@
+#video {
+	width: 340px;
+	height: 480px;
+}
+
+ul {
+	list-style: none;
+}
+
+.no-margin {
+	margin: 0;
+}
+
+.take-picture {
+	position: fixed;
+	bottom: 5px;
+	left: 5px;
+	z-index: 9999;
+}
